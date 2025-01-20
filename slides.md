@@ -15,6 +15,9 @@ css: unocss
 # Effective Resume Building
 Creating a Resume That Stands Out
 
+By Akshay Kumar Sharma
+
+B.Tech (DS & AI), Batch-I
 ---
 layout: default
 ---
@@ -246,6 +249,6 @@ layout: center
 class: text-center
 ---
 
-# Questions?
+# Thank You
 
-[Resources for Further Learning](https://www.resume.com) · [Templates](https://www.resume.com/templates) · [Examples](https://www.resume.com/examples)
+[Resources for Further Learning](https://www.resume.com)
